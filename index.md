@@ -4,7 +4,7 @@
 
 ### Herunterladen der Modpakete
 
-Auf dem Discord Server in dem Info Channel die HTML Dateien herunterladen.  
+Auf dem [Discord Server](https://discord.gg/GZftD2z3X2) in dem Info Channel die HTML Dateien herunterladen.  
   
 Die Mods aus dem Paket `Standard` werden zwingend benötigt. Bei dem Paket `Erweitert` handelt es sich um optionale Mods.  
 
