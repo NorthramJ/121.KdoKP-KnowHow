@@ -1,38 +1,21 @@
 # Willkommen auf der KnowHow Seite
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NorthramJ/121.KdoKP-KnowHow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Installation der Mods
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Herunterladen der Modpakete
 
-### Markdown
+Auf dem Discord Server in dem Info Channel die HTML Dateien herunterladen.  
+  
+Die Mods aus dem Paket "Standard" werden zwingend benötigt. Bei dem Paket Erweitert handelt es sich um optionale Mods.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Importieren der Modpakete
 
-```markdown
-Syntax highlighted code block
+Über den Arma Launcher lassen sich die Modpakete importieren.  
+Dazu auf einfach auf die Schaltfächen ```Mods->Preset->Import``` klicken wie in der folgenden Grafik gezeigt:  
+![Modpack importieren](img/import_modpack@1x.png)  
 
-# Header 1
-## Header 2
-### Header 3
+### Modpaket auswählen
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NorthramJ/121.KdoKP-KnowHow/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Mit dem `Preset` Button aus dem vorherigen Screenshot lassen sich jetzt die importierten Modpakete auswählen.  
+Das `Standard` Paket enthält die erforderlichen Mods.  
+Das `Erweitert` Paket enthält die Mods aus dem `Standard` Paket und zusätzlich die optionalen Mods.  
